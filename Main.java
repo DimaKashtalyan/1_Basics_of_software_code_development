@@ -1,6 +1,6 @@
 //Найдите значение функции: z = ( (a – 3 ) * b / 2) + c
 import java.util.Scanner;
-
+//fsdsfsdfdsffsdfsfsfsdfs
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

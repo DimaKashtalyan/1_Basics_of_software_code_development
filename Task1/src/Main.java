@@ -1,4 +1,4 @@
-//Найдите значение функции: z = ( (a – 3 ) * b / 2) + c
+//Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
 import java.util.Scanner;
 
 public class Main {

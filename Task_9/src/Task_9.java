@@ -32,6 +32,7 @@ public class Task_9 {
     private static boolean checkLieOnLine(double x1, double y1, double x2, double y2, double x3, double y3) {
 
         double NaklonAB = (y2 - y1) / (x2 - x1);
+
         double NaklonBC = (y3 - y2) / (x3 - x2);
 
         return NaklonAB == NaklonBC;

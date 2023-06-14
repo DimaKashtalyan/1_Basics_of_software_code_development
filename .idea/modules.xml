@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1_Basics_of_software_code_development.iml" filepath="$PROJECT_DIR$/.idea/1_Basics_of_software_code_development.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_1/Task_1.iml" filepath="$PROJECT_DIR$/Chapter_1/Task_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task95/task95.iml" filepath="$PROJECT_DIR$/task95/task95.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task97/task97.iml" filepath="$PROJECT_DIR$/task97/task97.iml" />
     </modules>
   </component>
 </project>
